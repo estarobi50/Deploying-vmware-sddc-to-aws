@@ -2,7 +2,7 @@
 
 ## Overview
 Deploy two separate VMware SDDCs to AWS using VMware Cloud on AWS, both running
-on dedicated i4i.metal bare-metal EC2 instances. SDDC 1 hosts general server
+on dedicated i4i.metal bare-metal EC2 instances in us-east-1. SDDC 1 hosts general server
 workloads across 11 hosts. SDDC 2 is a dedicated 3-host environment running an
 Omnissa Horizon virtual desktop infrastructure (VDI).
 
